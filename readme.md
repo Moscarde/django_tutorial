@@ -6,14 +6,12 @@ Este projeto tem como objetivo explorar o framework Django, seguindo o tutorial 
 Para mais informações e detalhes sobre o Django, você pode acessar a [documentação oficial do Django](https://www.djangoproject.com/).
 
 ## Screenshots
-<img src="screenshots/screenshot_01.png" width=49%>
-<img src="screenshots/screenshot_02.png" width=49%>
-<img src="screenshots/screenshot_03.png" width=49%>
-<img src="screenshots/screenshot_04.png" width=49%>
-<img src="screenshots/screenshot_05.png" width=49%>
-<img src="screenshots/screenshot_06.png" width=49%>
-<img src="screenshots/screenshot_07.png" width=49%>
-<img src="screenshots/screenshot_08.png" width=49%>
+
+| ![Screenshot 1](screenshots/screenshot_01.png) | ![Screenshot 2](screenshots/screenshot_02.png) | ![Screenshot 3](screenshots/screenshot_03.png) |
+| --- | --- | --- |
+| ![Screenshot 4](screenshots/screenshot_04.png) | ![Screenshot 5](screenshots/screenshot_05.png) | ![Screenshot 6](screenshots/screenshot_06.png) |
+| ![Screenshot 7](screenshots/screenshot_07.png) | ![Screenshot 8](screenshots/screenshot_08.png) | |
+
 
 
 ## Índice de anotações por páginas da documentação
